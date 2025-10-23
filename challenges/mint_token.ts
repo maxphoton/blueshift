@@ -1,4 +1,4 @@
-/** Challenge: Mint an SPL Token
+/** Challenge: Mint an SPL Token.
  *
  * In this challenge, you will create an SPL token!
  *
